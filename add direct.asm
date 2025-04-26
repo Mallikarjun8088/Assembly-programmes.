@@ -1,0 +1,4 @@
+MOV A,30H
+MOV B,40H
+ADD A,B
+END 
